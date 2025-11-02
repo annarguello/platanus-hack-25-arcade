@@ -1,4 +1,4 @@
 {
-  "game_name": "<FILL THIS>",
-  "description": "<FILL THIS>"
+  "game_name": "RETROBLAST",
+  "description": "Arcade retro shooter with chiptune background, procedural graphics and audio. Controls: ← → rotate, ↑ thrust, SPACE shoot, R restart."
 }
